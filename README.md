@@ -79,6 +79,7 @@ in
 ```
 ### Recommendations
 Top 5 genres are Action, Comedy, etc. I would recommend Netfliz to produce a movie with one of these genres as they brought in more in box office revenie based on the data from 2012 to 2016
+
 <img width="284" height="86" alt="image" src="https://github.com/user-attachments/assets/5b77f0bc-6e20-427a-9918-42710a3a0311" />
 
 
